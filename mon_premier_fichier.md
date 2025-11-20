@@ -5,4 +5,5 @@ C'est reparti mon kiki
 Je simule une modif d'un collègue 
 
 
-Je retest sur Git !
+
+Je garde un mix (simulation de conglit) 
