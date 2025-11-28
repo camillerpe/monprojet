@@ -5,6 +5,9 @@ editor: visual
 ---
 
 ## Quarto
+```{r}
+library(DT)
+```
 
 Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
 
@@ -24,3 +27,7 @@ You can add options to executable code like this
 ```
 
 The `echo: false` option disables the printing of code (only output is displayed).
+
+```{r}
+datatable(iris)
+```
